@@ -14,11 +14,11 @@
     "tslib": "^2.0.0"
   },
   "peerDependencies": {
-    "@angular/common": ">= 8.0.0 < 10.0.0",
-    "@angular/core": ">= 8.0.0 < 10.0.0",
-    "@angular/animations": ">= 8.0.0 < 10.0.0",
-    "@angular/material": ">= 8.0.0 < 10.0.0",
-    "@angular/cdk": ">= 8.0.0 < 10.0.0",
+    "@angular/common": ">= 8.0.0 < 12.0.0",
+    "@angular/core": ">= 8.0.0 < 12.0.0",
+    "@angular/animations": ">= 8.0.0 < 12.0.0",
+    "@angular/material": ">= 8.0.0 < 12.0.0",
+    "@angular/cdk": ">= 8.0.0 < 12.0.0",
     "rxjs": ">= 6.0.0"
   }
 }
